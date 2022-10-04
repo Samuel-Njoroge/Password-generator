@@ -1,5 +1,5 @@
 #importing Libraries
-
+#Tkinter a library for creating Graphical Users. 
 from tkinter import *
 import random, string
 import pyperclip
